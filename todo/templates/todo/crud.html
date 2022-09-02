@@ -1,13 +1,18 @@
-<div class="container-section">
-      <form action="{% url 'home' %}" method="post" class="create-todo-form">
-          {% csrf_token %}
+{% extends 'todo/index.html' %}
 
-          <input type="text" name="new-todo" id="new-todo" required>
-          <button type="submit">Add Todo</button>
-      </form>
-  </div>
+{% block content %}
 
-  {% for i in page_obj %}
+<div class="container">
+    <div class="container-section">
+        <form action="{% url 'home' %}" method="post" class="create-todo-form">
+            {% csrf_token %}
+
+            <input type="text" name="new-todo" id="new-todo" required>
+            <button type="submit">Add Todo</button>
+        </form>
+    </div>
+
+    {% for i in page_obj %}
     <div class="todo-container">
         <div class="todos">
             <p>{{ i.name }}</p>
