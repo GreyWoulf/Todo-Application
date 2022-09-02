@@ -199,7 +199,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Grey Woulf](https://twitter.com/twitter_handle) - email@email_client.com
+<!-- Your Name - [Grey Woulf](https://twitter.com/twitter_handle) - email@email_client.com -->
 
 Project Link: [https://github.com/greywoulf/Todo-Application](https://github.com/greywoulf/Todo-Application)
 
@@ -224,9 +224,7 @@ Project Link: [https://github.com/greywoulf/Todo-Application](https://github.com
 
 For inspiration, images and code snippets used in the creation of this blog website.
 
-* [Online Tutorials](https://www.youtube.com/watch?v=gggB0Nq5vBk)
-* [Daily Tuition](https://www.youtube.com/watch?v=CrSC1ZA9j0M&t=6288s)
-* [Vecteezy.com](https://www.vecteezy.com/)
+* [Gokulan CV](https://medium.com/@nsew1999gokulcvan/create-a-to-do-application-with-user-authentication-and-pagination-in-django-be4a797b20e6)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
