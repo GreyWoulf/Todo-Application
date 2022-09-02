@@ -3,6 +3,7 @@
     --light-pink: #f16498;
     --primary-red: rgb(235, 78, 78);
     --primary-green: rgb(25, 151, 25);
+    --green: 1b9aaa;
 }
 
 .content-section {
@@ -19,7 +20,7 @@
 
 .form-group legend {
     font-size: 1.5rem;
-    color: var(--dark-pink);
+    color: var(--primary-green);
     font-weight: 500;
     /* border: 2px solid blueviolet; */
     text-align: center;
