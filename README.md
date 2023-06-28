@@ -224,11 +224,6 @@ Project Link: [https://github.com/greywoulf/Todo-Application](https://github.com
 
 For inspiration, images and code snippets used in the creation of this blog website.
 
-* [Gokulan CV](https://medium.com/@nsew1999gokulcvan/create-a-to-do-application-with-user-authentication-and-pagination-in-django-be4a797b20e6)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
